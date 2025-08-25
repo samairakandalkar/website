@@ -28,38 +28,51 @@ project-folder/
 ├── nature.jpg      # Sample image used in "About Me" section
 └── README.md       # Project documentation
 
-```
+````
 
 ---
 
 ## 🚀 How to Run
-1. Clone or download this repository.
-2. Open the `index.html` file in your web browser.
-3. That’s it! 🎉 Your simple website will be live locally.
+
+### Clone the Repository
+```bash
+git clone https://github.com/samairakandalkar/website.git
+cd website
+````
+
+### Open in Browser
+
+1. Open the `index.html` file in your web browser.
+2. That’s it! 🎉 Your simple website will be live locally.
 
 ---
 
 ## 🎯 Features
-- Clean and minimal HTML structure.  
-- Basic CSS styling.  
-- Beginner-friendly project setup.  
+
+* Clean and minimal HTML structure.
+* Basic CSS styling.
+* Beginner-friendly project setup.
 
 ---
 
 ## 💡 Future Improvements
-- Add navigation links.  
-- Improve the CSS design.  
-- Make it mobile responsive.  
-- Add more sections like *Projects* and *Contact*.  
+
+* Add navigation links.
+* Improve the CSS design.
+* Make it mobile responsive.
+* Add more sections like *Projects* and *Contact*.
 
 ---
 
 ## 👩‍💻 Author
-**Samaira Kandalkar**  
-Learning web development and building my first simple website in **Cloudnautic 2025**.  
+
+**Samaira Kandalkar**
+Learning web development and building my first simple website in **Cloudnautic 2025**.
 
 ---
 
 ## 📜 License
-This project is open-source.  
+
+This project is open-source.
+
 ```
