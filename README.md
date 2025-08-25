@@ -14,7 +14,8 @@ The website contains:
 ---
 
 ## 🖼️ Screenshot
-(Add a screenshot of your site here once hosted or tested locally)
+Here’s a preview of the website:
+![Website Screenshot](screenshot.png)
 
 ---
 
