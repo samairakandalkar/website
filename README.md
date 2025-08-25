@@ -74,5 +74,3 @@ Learning web development and building my first simple website in **Cloudnautic 2
 ## 📜 License
 
 This project is open-source.
-
-```
